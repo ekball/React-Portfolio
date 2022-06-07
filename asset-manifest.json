@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.eaa04397.css",
+    "main.js": "/React-Portfolio/static/js/main.46de1073.js",
+    "static/js/787.512dd3f2.chunk.js": "/React-Portfolio/static/js/787.512dd3f2.chunk.js",
+    "static/media/pokebuff-screenshot.png": "/React-Portfolio/static/media/pokebuff-screenshot.45b43deb6ed7596e1f45.png",
+    "static/media/README-generator-screenshot.png": "/React-Portfolio/static/media/README-generator-screenshot.da98a70328134cfb82d2.png",
+    "static/media/profile-picture.jpeg": "/React-Portfolio/static/media/profile-picture.9e96591af8c7b48a2846.jpeg",
+    "static/media/movie-match-screenshot.png": "/React-Portfolio/static/media/movie-match-screenshot.8a0d851aa6ef5812bc42.png",
+    "static/media/avatar.jpeg": "/React-Portfolio/static/media/avatar.7a65a64df9ba27844a4b.jpeg",
+    "static/media/weather-dashboard-screenshot.png": "/React-Portfolio/static/media/weather-dashboard-screenshot.7f0117e576a502511ad4.png",
+    "static/media/notetaker-screenshot.png": "/React-Portfolio/static/media/notetaker-screenshot.87779223be1a53d468f8.png",
+    "static/media/password-generator-screenshot.png": "/React-Portfolio/static/media/password-generator-screenshot.5fde300022ccfbbd47cd.png",
+    "static/media/media-gems-screenshot.png": "/React-Portfolio/static/media/media-gems-screenshot.939c484e0950e97ef6df.png",
+    "index.html": "/React-Portfolio/index.html",
+    "main.eaa04397.css.map": "/React-Portfolio/static/css/main.eaa04397.css.map",
+    "main.46de1073.js.map": "/React-Portfolio/static/js/main.46de1073.js.map",
+    "787.512dd3f2.chunk.js.map": "/React-Portfolio/static/js/787.512dd3f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eaa04397.css",
+    "static/js/main.46de1073.js"
+  ]
+}
