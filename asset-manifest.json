@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.eaa04397.css",
+    "main.css": "/React-Portfolio/static/css/main.069f1649.css",
     "main.js": "/React-Portfolio/static/js/main.46de1073.js",
     "static/js/787.512dd3f2.chunk.js": "/React-Portfolio/static/js/787.512dd3f2.chunk.js",
     "static/media/pokebuff-screenshot.png": "/React-Portfolio/static/media/pokebuff-screenshot.45b43deb6ed7596e1f45.png",
@@ -13,12 +13,12 @@
     "static/media/password-generator-screenshot.png": "/React-Portfolio/static/media/password-generator-screenshot.5fde300022ccfbbd47cd.png",
     "static/media/media-gems-screenshot.png": "/React-Portfolio/static/media/media-gems-screenshot.939c484e0950e97ef6df.png",
     "index.html": "/React-Portfolio/index.html",
-    "main.eaa04397.css.map": "/React-Portfolio/static/css/main.eaa04397.css.map",
+    "main.069f1649.css.map": "/React-Portfolio/static/css/main.069f1649.css.map",
     "main.46de1073.js.map": "/React-Portfolio/static/js/main.46de1073.js.map",
     "787.512dd3f2.chunk.js.map": "/React-Portfolio/static/js/787.512dd3f2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.eaa04397.css",
+    "static/css/main.069f1649.css",
     "static/js/main.46de1073.js"
   ]
 }
